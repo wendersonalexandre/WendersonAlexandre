@@ -3,7 +3,7 @@
 - Cursando Análise e Desenvolvimento de Sitemas 4/5
 - Estudando Javascript
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/WendersonAlexandre/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=dark)
 
 
   <div style="display: inline_block";><br>
