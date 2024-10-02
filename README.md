@@ -3,7 +3,8 @@
 - Cursando Análise e Desenvolvimento de Sitemas 4/5
 - Estudando Javascript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=dark) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/WendersonAlexandre/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=dark) ![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+
 
   <div style="display: inline_block";><br>
       <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
