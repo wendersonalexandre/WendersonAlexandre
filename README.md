@@ -3,8 +3,14 @@
 - Cursando Análise e Desenvolvimento de Sitemas 4/5
 - Estudando Javascript
 
-![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=radical&width=400&height=250)
+![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=radical&width=400&height=200)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WendersonAlexandre&layout=donut&theme=radical&width=400&height=200)
+
+# Olá, eu sou [Seu Nome]!
+
+<img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical&hide_title=true" width="400" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=donut&theme=radical&hide_title=true" width="400" height="200" />
+
 
 
   <div style="display: inline_block";><br>
