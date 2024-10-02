@@ -3,7 +3,9 @@
 - Cursando Análise e Desenvolvimento de Sitemas 4/5
 - Estudando Javascript
 
-![Hello friends](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=dark)
+![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=donut&theme=radical)
+
 
 
 
