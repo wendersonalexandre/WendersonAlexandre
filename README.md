@@ -3,11 +3,8 @@
 - Cursando Análise e Desenvolvimento de Sitemas 4/5
 - Estudando Javascript
 
-![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=dark&width=400&height=200)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sWendersonAlexandre&layout=donut&theme=dark&width=400&height=200)
-)
-
-
+![Estatísticas de Contribuições](https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=radical&width=400&height=200)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WendersonAlexandre&layout=donut&theme=radical&width=400&height=200)
 
 
   <div style="display: inline_block";><br>
