@@ -4,13 +4,12 @@
 - Estudando Javascript
 
 
-
-<div>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&show_icons=true&theme=radical&hide_title=true" width="400" height="300px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendersonAlexandre&layout=donut&theme=radical&hide_title=true" width="400" height="150px" />
-
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
   <div style="display: inline_block";><br>
