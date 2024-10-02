@@ -4,7 +4,7 @@
 - Estudando Javascript
 
 <a href="https://github.com/WenderonAlexandre/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&theme=dark" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&theme=dark" />
 </a>
 
 
