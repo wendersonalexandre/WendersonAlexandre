@@ -38,7 +38,7 @@
 
 🔹 [Projeto jogo do amigo secreto](https://wendersonalexandre.github.io/jogo-do-amigo-secreto/) <br/>
 🔹 [Curso de logica da Alura](https://github.com/wendersonalexandre/Curso-oracle-alura) <br>
-🔹 [Portifólio simples](https://github.com/wendersonalexandre/ideia-de-portifolio)
+🔹 [Portifólio simples](https://wendersonalexandre.github.io/ideia-de-portifolio/)
 
 
 
