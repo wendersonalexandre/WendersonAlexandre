@@ -15,12 +15,13 @@
 [![=instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wenderson_asr/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenderson-alexandre-2aba08311/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Wendersonalexandre68@gmail.com)
 
 <div>
-  <a href="https://github.com/wendersonalexandre">
-    <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&theme=dracula&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/wendersonalexandre">
-    <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WendersonAlexandre&layout=compact&langs_count=8&card_width=320&theme=dracula&cache_seconds=1800" />
-  </a>
+ 
+<a href="https://github.com/wendersonalexandre">
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&theme=dracula" />
+</a>
+<a href="https://github.com/wendersonalexandre">
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WendersonAlexandre&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 </div>
 
 
