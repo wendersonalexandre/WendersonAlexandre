@@ -22,6 +22,9 @@
 <a href="https://github.com/wendersonalexandre">
   <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WendersonAlexandre&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wendersonalexandre&layout=pie)
+
 </div>
 
 
