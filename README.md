@@ -17,10 +17,14 @@
 <div>
  
 <a href="https://github.com/wendersonalexandre">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&theme=dracula" />
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=WendersonAlexandre&theme=dark" />
 </a>
 <a href="https://github.com/wendersonalexandre">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WendersonAlexandre&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=155 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WendersonAlexandre&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+<a href="https://github.com/wendersonalexandre">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WendersonAlexandre&theme=dark"/>
 </a>
 
 </div>
@@ -29,11 +33,13 @@
 
 ## Tecnologias que eu uso no meu dia 
 <div style="display:inline_block"><br/>
-  <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img aling="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  
+<div align="left">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
 </div> <br/>
 
 ## Ultimos estudos:
